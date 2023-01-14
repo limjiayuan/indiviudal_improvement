@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Asar&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Piazzolla:opsz@8..30&display=swap" rel="stylesheet">
     <title>Login Page</title>
 </head>
 <style>
@@ -20,7 +21,7 @@
 body{
     background: #070f5f;
     font-family: 'Asar', serif;
-    font-family: 'Merriweather', serif;
+    font-family: 'Piazzolla', serif;
 }
 
 p{
