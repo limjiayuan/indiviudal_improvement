@@ -103,7 +103,7 @@ html body {
         </div>
     </div>
     <!--Dashboard-->
-    <div class="container-fluid d-flex justify-content-center">
+    <div class="container-fluid d-flex justify-content-center pb-3">
         <div class="container d-flex flex-column w-100 bg-light mx-3 py-3 rounded-4">
             <div class="d-flex container-fluid justify-content-between border-bottom border-dark border-5 p-3">
                 <div class="w-30">
