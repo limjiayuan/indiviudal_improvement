@@ -18,7 +18,7 @@
 }
 
 body{
-    background: #212763;
+    background: #070f5f;
     font-family: 'Asar', serif;
     font-family: 'Merriweather', serif;
 }

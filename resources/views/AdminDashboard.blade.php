@@ -4,7 +4,7 @@
 
 <style>
 html body {
-    background-color: #212763;
+    background-color: #070f5f;
 }
 
 #bgcon {
